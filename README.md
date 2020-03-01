@@ -1,5 +1,5 @@
 # Lookup Hashing
-The necessary info you need to know about lookup hashing, we will use c# in the code example.
+The basic info you need to know about lookup hashing.
 
 ## What is hashing?
 Hashing is the process of converting a given key into another value. A __hash function__ is used to generate the new value according to an algorithm. The result of a hash function is know as __hash value__, or simply, __hash__.
